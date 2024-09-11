@@ -1,0 +1,1 @@
+# camel-4.4.2-kafka-azure-service-bug
